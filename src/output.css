@@ -795,8 +795,8 @@ video {
   background-color: rgb(244 244 245 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/Images\/DHbg\.jpg\'\)\] {
-  background-image: url('../Images/DHbg.jpg');
+.bg-\[url\(\'Images\/DHlogo\.jpg\'\)\] {
+  background-image: url('Images/DHlogo.jpg');
 }
 
 .bg-cover {
