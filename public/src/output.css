@@ -698,6 +698,18 @@ video {
   width: 80%;
 }
 
+.w-full {
+  width: 100%;
+}
+
+.w-\[95vw\] {
+  width: 95vw;
+}
+
+.w-\[vw\] {
+  width: vw;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -795,16 +807,24 @@ video {
   background-color: rgb(244 244 245 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'Images\/DHlogo\.jpg\'\)\] {
-  background-image: url('Images/DHlogo.jpg');
-}
-
 .bg-cover {
   background-size: cover;
 }
 
 .bg-top {
   background-position: top;
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
+}
+
+.p-2 {
+  padding: 0.5rem;
 }
 
 .p-\[2em\] {
